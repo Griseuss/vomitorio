@@ -1,6 +1,6 @@
 ---
 title: "Amor Fati"
-description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
+description: ""
 publishDate: "11 March 2024"
 tags: ["poesia"]
 draft: false

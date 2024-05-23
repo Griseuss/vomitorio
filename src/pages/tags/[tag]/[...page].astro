@@ -29,21 +29,21 @@ const { page } = Astro.props;
 const { tag } = Astro.params;
 
 const meta = {
-	description: `View all posts with the tag - ${tag}`,
+	description: `Ver todos o textos do gênero - ${tag}`,
 	title: `Tag: ${tag}`,
 };
 
 const paginationProps = {
 	...(page.url.prev && {
 		prevUrl: {
-			text: `← Previous Tags`,
-			url: page.url.prev,
+			text: `← Gêneros anteriores`,
+			url: `/vomitorio${page.url.prev}`,
 		},
 	}),
 	...(page.url.next && {
 		nextUrl: {
-			text: `Next Tags →`,
-			url: page.url.next,
+			text: `Próximos gêneros →`,
+			url: `/vomitorio${page.url.next}`,
 		},
 	}),
 };

@@ -18,4 +18,3 @@ O sentimento de fracasso adoeceu meu corpo e enfraqueceu minha mente. A ironia �
 O ego é uma coisa muito engraçada, não é?
 
 -Dom Carniça
-

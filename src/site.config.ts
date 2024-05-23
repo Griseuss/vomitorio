@@ -44,8 +44,8 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "Textos",
 	},
 	{
-		path: "/vomitorio/dadada/",
-		title: "Dadada",
+		path: "/vomitorio/contato/",
+		title: "Contato",
 	},
 ];
 

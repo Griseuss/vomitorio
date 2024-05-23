@@ -23,7 +23,7 @@ interface Props {
 const { page, uniqueTags } = Astro.props;
 
 const meta = {
-	description: "Read my collection of posts and the things that interest me",
+	description: "Vai lendo ai vai",
 	title: "Posts",
 };
 
@@ -31,13 +31,13 @@ const paginationProps = {
 	...(page.url.prev && {
 		prevUrl: {
 			text: `← Página Anterior`,
-			url: page.url.prev,
+			url: `/vomitorio${page.url.prev}`,
 		},
 	}),
 	...(page.url.next && {
 		nextUrl: {
 			text: `Próxima Página →`,
-			url: "/vomitorio/"+page.url.next,
+			url: `/vomitorio${page.url.next}`,
 		},
 	}),
 };
@@ -102,7 +102,7 @@ const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
 						))}
 					</ul>
 					<span class="mt-4 block sm:text-end">
-						<a aria-label="View all blog categories" class="sm:hover:text-accent" href="/tags/">
+						<a aria-label="View all blog categories" class="sm:hover:text-accent" href="/vomitorio/tags/">
 							View all →
 						</a>
 					</span>
