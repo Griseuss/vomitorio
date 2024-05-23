@@ -30,14 +30,14 @@ const meta = {
 const paginationProps = {
 	...(page.url.prev && {
 		prevUrl: {
-			text: `← Previous Page`,
+			text: `← Página Anterior`,
 			url: page.url.prev,
 		},
 	}),
 	...(page.url.next && {
 		nextUrl: {
-			text: `Next Page →`,
-			url: page.url.next,
+			text: `Próxima Página →`,
+			url: "/vomitorio/"+page.url.next,
 		},
 	}),
 };
