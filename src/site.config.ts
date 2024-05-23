@@ -14,7 +14,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	// Meta property used as the default description meta property
-	description: "Sinta o cheiro da carnicinha.",
+	description: "Sinta o cheirinho da obra do Dom Carniça.",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "pt-BR",
 	// Meta property, found in src/components/BaseHead.astro L:42
@@ -41,7 +41,7 @@ export const menuLinks: { path: string; title: string }[] = [
 	},
 	{
 		path: "/vomitorio/posts/",
-		title: "Artigos",
+		title: "Textos",
 	},
 ];
 
