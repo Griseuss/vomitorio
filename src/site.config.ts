@@ -33,7 +33,7 @@ export const siteConfig: SiteConfig = {
 export const menuLinks: { path: string; title: string }[] = [
 	{
 		path: "/vomitorio",
-		title: "sss",
+		title: "Início",
 	},
 	{
 		path: "/vomitorio/sobre/",
@@ -42,6 +42,10 @@ export const menuLinks: { path: string; title: string }[] = [
 	{
 		path: "/vomitorio/posts/",
 		title: "Textos",
+	},
+	{
+		path: "/vomitorio/dadada/",
+		title: "Dadada",
 	},
 ];
 
