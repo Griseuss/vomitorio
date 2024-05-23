@@ -1,13 +1,13 @@
 ---
 title: "A Alegria do Sabiá"
-description: "Esta é uma poesia. ziaziazia, uma poeeesia nhaaaaaum, meu pau chegando de avião."
-publishDate: "11 March 2024"
+description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
+publishDate: "23 March 2024"
 tags: ["poesia"]
-draft: true
+draft: false
 ---
 
-A alegria do Sabiá
-
+A alegria do Sabiá<br>
+<br>
 Ave, ave!<br>
 Que tu queres me falar?<br>
 É inda cedo para tanto!<br>
