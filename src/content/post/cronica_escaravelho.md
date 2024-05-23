@@ -1,7 +1,7 @@
 ---
 title: "O Escaravelho"
 description: "Esta é a crônica inaugural do Vomitório. Tem um tom mais pessoal e define o espírito do projeto."
-publishDate: "10 March 2024"
+publishDate: "20 March 2024"
 tags: ["cronica"]
 draft: false
 ---
