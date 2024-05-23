@@ -1,9 +1,9 @@
 ---
 title: "Angina e o Gato Cinza"
-description: "Esta poesia fala sobre o meu grandissíssimo pau batendo numa botija de 13 kilos."
+description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
 publishDate: "10 March 2024"
 tags: ["poesia"]
-draft: true
+draft: false
 ---
 
 Angina e o gato cinza<br>
