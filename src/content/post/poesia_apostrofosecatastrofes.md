@@ -2,7 +2,7 @@
 title: "Apóstrofos e Catátrofes"
 description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
 publishDate: "23 March 2024"
-tags: ["vomito"]
+tags: ["poesia"]
 draft: false
 ---
 

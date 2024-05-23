@@ -1,13 +1,13 @@
 ---
 title: "Contravindas"
-description: "Esta é uma poesia. ziaziazia, uma poeeesia nhaaaaaum, meu pau chegando de avião."
-publishDate: "11 March 2024"
+description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
+publishDate: "23 March 2024"
 tags: ["poesia"]
-draft: true
+draft: false
 ---
 
-Contravindas
-
+Contravindas<br>
+<br>
 Que regozijem-se os carniceiros,<br>
 As funerárias não serão bem vindas.<br>
 Meu sangue é dos bueiros,<br>

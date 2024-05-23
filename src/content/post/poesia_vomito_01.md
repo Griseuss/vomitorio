@@ -1,9 +1,9 @@
 ---
 title: "Vômito 01"
-description: "Esta poesia fala sobre o meu grandissíssimo pau batendo numa botija de 13 kilos."
-publishDate: "10 March 2024"
+description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
+publishDate: "23 March 2024"
 tags: ["vomito"]
-draft: true
+draft: false
 ---
 
 Vômito 01<br>
