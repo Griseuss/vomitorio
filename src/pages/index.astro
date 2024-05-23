@@ -1,0 +1,37 @@
+---
+
+import PostPreview from "@/components/blog/PostPreview.astro";
+import { getAllPosts, sortMDByDate } from "@/data/post";
+import PageLayout from "@/layouts/Base.astro";
+
+const MAX_POSTS = 10;
+const allPosts = await getAllPosts();
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+
+
+---
+
+<PageLayout meta={{ title: "Home" }}>
+	<section>
+		<h1 class="title mb-6">Saudações Cadavéricas</h1>
+		<p class="mb-4">
+			Olá, meu nome é Dom Carniça, seja bem vindo ao meu Vomitório. Aqui eu pretendo vomitar todas as angústias da minha alma, e com sorte você ficará tão enauseado quanto eu.
+			Pretendo postar poesias, contos, crônicas, opiniões, resenhas, protótipos de jogos e o caralho a quatro, o que me der vontade. Saiba mais sobre mim na sessão "sobre o Vomitório", ou contente-se com minha obra.<br><br>
+			Saiba, porém, que este é um espaço daqueles cujo objetivo é sujar e subtrair. É o último relento de quem se cansou de coabitar com os vivos e passou a apreciar a companhia dos vermes e dos defuntos. 
+		</p>
+	
+	</section>
+	<section aria-label="Blog post list" class="mt-16">
+		<h2 class="title mb-4 text-xl">Posts</h2>
+		<ul class="space-y-4">
+			{
+				allPostsByDate.map((p) => (
+					<li class="grid gap-2 sm:grid-cols-[auto_1fr] sm:[&_q]:col-start-2">
+						<PostPreview post={p} />
+					</li>
+				))
+			}
+		</ul>
+	</section>
+
+</PageLayout>
