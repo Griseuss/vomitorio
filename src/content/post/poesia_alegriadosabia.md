@@ -1,6 +1,6 @@
 ---
 title: "A Alegria do Sabiá"
-description: ""
+description: "Pela morte de todos os pássaros."
 publishDate: "23 March 2024"
 tags: ["poesia"]
 draft: false

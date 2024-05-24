@@ -1,6 +1,6 @@
 ---
 title: "Putrefato"
-description: "Uma poesia com cheirinho de carniça pra você. Tem quem goste de carniça, mas poesia é pra poucos."
+description: "Se abandonar um bebê-carniça, esconda-o bem."
 publishDate: "23 March 2024"
 tags: ["poesia"]
 draft: false
@@ -11,7 +11,7 @@ Putrefato<br>
 Jazido sobre terra um bebezinho,<br>
 exposto ao sol mas por angústia ressecado.<br>
 A debater-se tão à toa sobre o barro,<br>
-a incendiar mais um bramido tão calado...<br>
+a incendiar mais um bramido tão calado.<br>
 <br>
 A tragédia revoltante anunciada<br>
 na expressão da criatura abandonada.<br>
