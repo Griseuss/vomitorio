@@ -1,7 +1,7 @@
 ---
 title: "Amor Fati"
 description: ""
-publishDate: "11 March 2024"
+publishDate: "25 March 2024"
 tags: ["poesia"]
 draft: false
 ---

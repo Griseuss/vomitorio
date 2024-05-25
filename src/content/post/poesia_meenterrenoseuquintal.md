@@ -1,7 +1,7 @@
 ---
 title: "Me Enterre no Seu Quintal"
 description: ""
-publishDate: "23 March 2024"
+publishDate: "07 April 2024"
 tags: ["poesia"]
 draft: false
 ---

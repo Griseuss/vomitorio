@@ -1,7 +1,7 @@
 ---
 title: "Putrefato"
 description: "Se abandonar um bebê-carniça, esconda-o bem."
-publishDate: "23 March 2024"
+publishDate: "10 April 2024"
 tags: ["poesia"]
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Contravindas"
 description: ""
-publishDate: "23 March 2024"
+publishDate: "01 April 2024"
 tags: ["poesia"]
 draft: false
 ---

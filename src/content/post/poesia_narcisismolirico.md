@@ -1,7 +1,7 @@
 ---
 title: "Narcisismo Lírico"
 description: ""
-publishDate: "23 March 2024"
+publishDate: "09 April 2024"
 tags: ["poesia"]
 draft: false
 ---

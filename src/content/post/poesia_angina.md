@@ -1,7 +1,7 @@
 ---
 title: "Angina e o Gato Cinza"
 description: ""
-publishDate: "23 March 2024"
+publishDate: "26 March 2024"
 tags: ["poesia"]
 draft: false
 ---

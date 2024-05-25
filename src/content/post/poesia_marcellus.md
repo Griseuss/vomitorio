@@ -1,7 +1,7 @@
 ---
 title: "Marcellus"
 description: "Uma ode ao esgrimista."
-publishDate: "23 March 2024"
+publishDate: "06 April 2024"
 tags: ["poesia"]
 draft: false
 ---
