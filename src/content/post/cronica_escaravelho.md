@@ -3,7 +3,7 @@ title: "O Escaravelho"
 description: "Uma vez eu rolei bosta."
 publishDate: "20 March 2024"
 tags: ["cronica"]
-draft: falsa
+draft: false
 ---
 
 Eu sou um rola-bosta.
